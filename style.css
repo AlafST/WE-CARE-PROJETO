@@ -96,3 +96,59 @@ p {
     transform: scale(1.1);
    
 }
+
+@media screen and (max-width:900px){
+p {
+    display: none;
+}
+
+.logo-image{
+    width: 100%;
+    height: auto;
+    margin:0;
+}
+
+section {
+    display: block;
+    text-align: center;
+
+}
+
+.link-header{
+    display: none;
+}
+
+.button-header{
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 61px;
+    color: #515151;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36.60px;
+    color: #515151;
+
+}
+
+.button-main{
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left; 
+    border-radius: 50px;
+    
+}
+
+}
