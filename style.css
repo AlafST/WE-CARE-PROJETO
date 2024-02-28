@@ -106,11 +106,13 @@ p {
     width: 100%;
     height: auto;
     margin:0;
+    margin-top: 25px;
 }
 
 section {
     display: block;
     text-align: center;
+    margin-top: 55px;
 
 }
 
@@ -124,6 +126,7 @@ section {
     left: 50%;
     transform: translateX(-50%);
     font-size: 20px;
+    margin: 0;
 }
 
 h1{
