@@ -65,7 +65,7 @@ h2 {
     font-weight: 500;
     line-height: 71px;
     color: #515151;
-
+    margin-left: 61PX;
 }
 
 p {
@@ -74,6 +74,7 @@ p {
     line-height: 29px;
     color: #848484;
     width: 512px;
+    margin-left: 28px;
 }
 
 .button-main {
@@ -87,7 +88,7 @@ p {
     cursor: pointer;
     box-shadow: 0px 4px 4px 0px #00000040;
     margin-top: 20px;
-
+    margin-left: 25%;
 }
 
 .button-main:hover {
@@ -141,7 +142,7 @@ h2{
     font-weight: 500;
     line-height: 36.60px;
     color: #515151;
-
+    margin-left: 0;
 }
 
 .button-main{
@@ -151,7 +152,7 @@ h2{
     letter-spacing: 0em;
     text-align: left; 
     border-radius: 50px;
-    
+    margin-left: 0;
 }
 
 }
